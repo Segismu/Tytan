@@ -916,7 +916,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1941259268, guid: d0ea503fbff1d40b1a48d97ae91af62e, type: 3}
       propertyPath: paddingTop
-      value: 1
+      value: 4.5
       objectReference: {fileID: 0}
     - target: {fileID: 1941259268, guid: d0ea503fbff1d40b1a48d97ae91af62e, type: 3}
       propertyPath: paddingLeft
