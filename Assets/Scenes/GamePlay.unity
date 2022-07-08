@@ -1084,7 +1084,17 @@ MonoBehaviour:
   waveConfigs:
   - {fileID: 11400000, guid: e7abd55e73a844225b5cce0113aec36c, type: 2}
   - {fileID: 11400000, guid: e4d51180a621e4a2ab747ce020eac157, type: 2}
-  timeBetweenEnemyWaves: 0
+  - {fileID: 11400000, guid: 1a502edd1bd9a4256a0c42d86f9efbd1, type: 2}
+  - {fileID: 11400000, guid: 1a502edd1bd9a4256a0c42d86f9efbd1, type: 2}
+  - {fileID: 11400000, guid: 1a1032b152d2044c0b5475a06c3ca972, type: 2}
+  - {fileID: 11400000, guid: bd5ecae150e2c4100b1a7b85f3f70c6f, type: 2}
+  - {fileID: 11400000, guid: 1a1032b152d2044c0b5475a06c3ca972, type: 2}
+  - {fileID: 11400000, guid: bd5ecae150e2c4100b1a7b85f3f70c6f, type: 2}
+  - {fileID: 11400000, guid: bd5ecae150e2c4100b1a7b85f3f70c6f, type: 2}
+  - {fileID: 11400000, guid: 67d3bb860214e4283a88d966606ca607, type: 2}
+  - {fileID: 11400000, guid: e4d51180a621e4a2ab747ce020eac157, type: 2}
+  - {fileID: 11400000, guid: e7abd55e73a844225b5cce0113aec36c, type: 2}
+  timeBetweenEnemyWaves: 2
   isLooping: 1
 --- !u!4 &2078325185
 Transform:
