@@ -45,8 +45,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4b8e77facf3364873b276cae5c16847b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  shootingSFX: {fileID: 8300000, guid: 4004a75d7f8cd4ca09a1a4c432148844, type: 3}
-  shootVolume: 0.1
+  shootingSFX: {fileID: 8300000, guid: c5faefd0018cb4b31a045bf8901c9ea6, type: 3}
+  shootVolume: 0.003
   hitSFX: {fileID: 8300000, guid: 800cdbede4e2c4c11a49e9a2af1c7809, type: 3}
   hitVolume: 0.1
 --- !u!82 &3621369335300581841
