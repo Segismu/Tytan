@@ -25,6 +25,11 @@ public class LevelMNG : MonoBehaviour
         SceneManager.LoadScene("MainPanel");
     }
 
+    public void LoadExtra()
+    {
+        SceneManager.LoadScene("Extra");
+    }
+
     public void LoadGameOver()
     {
         StartCoroutine(WaitAndLoad("GameOver", sceneLoadDelay));
